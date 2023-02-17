@@ -150,8 +150,8 @@ img {
   height: 400px;
   display: inline-block;
   float: left;
-  margin-bottom: 2%;
-  margin-right: 2%;
+  margin-bottom: 5%;
+  margin-right: 100%;
 }
 
 body .gist .gist-file {
@@ -236,6 +236,8 @@ body .gist .gist-meta {
     height: auto;
   }
 }
+
+
 
 .myBox {
   /*   background: red; */
